@@ -3,6 +3,11 @@
 A new Flutter project, that tracks the timezones across various locations in the world.
 Inspired by Net Ninja Flutter tutorials.
 
+![Uploading WhatsApp Image 2023-06-21 at 18.19.57.jpg…](Day View)
+
+![Uploading WhatsApp Image 2023-06-21 at 18.19.57.jpg…](Night View)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
