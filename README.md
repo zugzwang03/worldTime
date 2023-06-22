@@ -1,6 +1,7 @@
-# worldmap
+# WorldTime
 
-A new Flutter project.
+A new Flutter project, that tracks the timezones across various locations in the world.
+Inspired by Net Ninja Flutter tutorials.
 
 ## Getting Started
 
