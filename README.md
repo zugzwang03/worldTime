@@ -3,6 +3,10 @@
 A new Flutter project, that tracks the timezones across various locations in the world.
 Inspired by Net Ninja Flutter tutorials.
 
+![WhatsApp Image 2023-06-21 at 18 19 57](https://github.com/zugzwang03/worldTime/assets/95460021/04639a4f-c4e1-4b89-9bbc-77bbd564d867)
+
+![WhatsApp Image 2023-06-21 at 18 19 57](https://github.com/zugzwang03/worldTime/assets/95460021/70b2ffd9-b7fc-40ea-9556-ab83b848c8a2)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
